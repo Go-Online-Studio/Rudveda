@@ -46,7 +46,7 @@ function loadHeaderFooter(callback) {
                     <button class="btn-nav-close"><span class="close-btn">+</span></button>
                   </li>
                   <li class="navLi"><a class="navLink" href="index.html">Home</a></li>
-                  <li class="navLi"><a class="navLink" href="Karmakand.html">Karmakand</a></li>
+                  <li class="navLi"><a class="navLink" href="karmakand.html">Karmakand</a></li>
                   <li class="navLi"><a class="navLink" href="Yoga.html">Yoga</a></li>
                   <li class="navLi"><a class="navLink" href="ayurveda.html">Ayurveda</a></li>
                   <li class="navLi"><a class="navLink" href="panchkarma.html">Panchkarma</a></li>
